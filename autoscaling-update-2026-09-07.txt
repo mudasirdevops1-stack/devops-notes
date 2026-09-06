@@ -1,0 +1,9 @@
+Practiced AWS Auto Scaling Groups:
+- Created Launch Template with AMI, key pair, and instance type
+- Configured network settings: VPC, subnet, availability zone
+- Applied Security Group firewall rules (inbound/outbound)
+- Enabled advanced network configuration
+- Created Auto Scaling Group linked to Launch Template
+- Configured health checks, group size, scaling policies
+- Updated Auto Scaling Group with new VPC and AZ settings
+- Verified scaling behavior and instance health
